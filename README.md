@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Pasquale Junior Montò a Computer Science student based in Pozzuoli (Naples).<br>🚀 I build cross-platform apps, experiment with embedded systems, and love solving real-world problems through tech.<br>🛠️ Tools I use: TypeScript, Swift, Vapor, C/C++, PlatformIO, Java.<br>📚 Interests: Software engineering, electronic systems, futsal, tango, photography, and music.<br>🌍 Polyglot (🇬🇧🇵🇹🇫🇷🇮🇹), always learning.
+Hi, I’m Pasquale Junior Montò a Computer Science student based in Pozzuoli (Naples).<br> I build cross-platform apps, experiment with embedded systems, and love solving real-world problems through tech.<br>🛠️ Tools I use: TypeScript, Swift, C/C++, PlatformIO, Java.<br> Interests: Software engineering, electronic systems, futsal, tango, photography, and music.<br> Languages: Italian, Portuguese, English, French 
 
 
 ## 🌐 Socials:
